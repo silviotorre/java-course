@@ -91,7 +91,6 @@ public class custom_order {
     fillingType = keyboard.nextLine();
 	  
 	  
-      
     // TEST CODE
       
     // STEP 8 PROMPT USER TO CHOOSE TOPPINGS
