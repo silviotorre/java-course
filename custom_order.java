@@ -14,6 +14,9 @@ public class custom_order {
     // STEP 2 CREATE A SCANNER OBEJCT, DECLARE VARAIBLES, & PRINT STATEMENTS
 	  
 
+    System.out.println("Welcome to Java's Cake & Cupcake Shop!");
+    System.out.println("We make custom cakes with our secret cake batter!");
+    
 	 
     // Introduce shop and prompt user to input first name
       
