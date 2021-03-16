@@ -97,7 +97,9 @@ public class custom_order {
     // STEP 8 PROMPT USER TO CHOOSE TOPPINGS
 
 
-	
+    System.out.println("What type of TOPPINGS do you want? ");
+    System.out.println("Sprinkles, Cinnamon, Cocoa, Nuts");
+    toppings = keyboard.nextLine();
       
       
     // TEST CODE
