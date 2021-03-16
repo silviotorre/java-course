@@ -74,6 +74,9 @@ public class custom_order {
       
     // STEP 6 PROMPT USER TO CHOOSE FROSTING
 
+    System.out.println("What type of FROSTING do you want? ");
+    System.out.println("Vanilla, Chocolate, Strawberry or Coco");
+    frostingType = keyboard.nextLine();
    
 	 
 	 
